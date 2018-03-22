@@ -7,7 +7,11 @@
     <Team1Score>50</Team1Score>
     <Team2Score>75</Team2Score>
   </Game>
-    <!--Creating comment to test how double modification works in branch game file-->
+
+ 
+
+    <!--Creating comment to test how double modification works in master game file-->
+
   <Game>
     <Team1>Spurs</Team1>
     <Team2>76ers</Team2>
@@ -21,7 +25,8 @@
     <Team1Score>97</Team1Score>
     <Team2Score>105</Team2Score>
   </Game>
-    
+     <!--Creating comment to test how double modification works in branch game file-->
+
   <Game>
     <Team1>Spurs</Team1>
     <Team2>76ers</Team2>
@@ -47,6 +52,7 @@
     <Team2Score>102</Team2Score>
   </Game>
   <Game>
+    <!-- Creating a new comment in regards to step 10, after creating pull request -->
     <Team1>Tampa</Team1>
     <Team2>Montana</Team2>
     <Team1Score>67</Team1Score>
