@@ -13,6 +13,7 @@
     <Team1Score>85</Team1Score>
     <Team2Score>84</Team2Score>
   </Game>
+  <!-- Creating a new comment in my branch game file to show merge was successful after pull request -->
   <Game>
     <Team1>Caveliers</Team1>
     <Team2>Heat</Team2>
